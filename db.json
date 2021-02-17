@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "name": "Ravindra",
+      "email": "ravindra@gmail.com",
+      "mobile": "7047178936",
+      "city": "Indore",
+      "gender": "male",
+      "department": "",
+      "date": "2021-02-19",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Ravindra Kushwaha",
+      "email": "ravindra@gmail.com",
+      "mobile": "7047178936",
+      "city": "Indore",
+      "gender": "male",
+      "department": "Marketing Department",
+      "date": "2021-02-19",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "Sonu Gupta",
+      "email": "sonu@gmail.com",
+      "mobile": "7047178936",
+      "city": "Indore",
+      "gender": "male",
+      "department": "Computer",
+      "date": "2021-02-17",
+      "password": "123456",
+      "id": 4
+    }
+  ],
+  "department": [
+    {
+      "departmentName": "Sales Department"
+    },
+    {
+      "departmentName": "Marketing Department"
+    },
+    {
+      "departmentName": "Operations Department"
+    },
+    {
+      "departmentName": "Finance Department"
+    },
+    {
+      "departmentName": "Human Resource Department"
+    },
+    {
+      "departmentName": "Purchase Department"
+    }
+  ]
+}
